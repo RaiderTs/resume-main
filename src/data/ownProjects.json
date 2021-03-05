@@ -1,0 +1,28 @@
+[
+  {
+    "id": "id-1",
+    "label": "Web Studio",
+    "link": "https://raiderts.github.io/goit-markup-hw-08/index.html",
+    "tech": "HTML5, CSS3"
+  },
+
+  {
+    "id": "id-5",
+    "label": "Image Finder",
+    "link": "https://raiderts.github.io/goit-js-hw-13-image-finder/",
+    "tech": "React"
+  },
+
+  {
+    "id": "id-7",
+    "label": "Movies",
+    "link": "https://rts-movie.netlify.app/",
+    "tech": "React"
+  },
+  {
+    "id": "id-8",
+    "label": "Phonebook",
+    "link": "https://rts-phonebook.netlify.app/",
+    "tech": "React"
+  }
+]

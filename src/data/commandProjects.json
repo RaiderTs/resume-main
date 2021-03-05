@@ -1,0 +1,14 @@
+[
+  {
+    "id": "id-1",
+    "label": "BarberShop",
+    "link": "https://kuysolov.github.io/final_project_group_6/",
+    "tech": "HTML5, CSS3, JS"
+  },
+  {
+    "id": "id-2",
+    "label": "Filmoteka",
+    "link": "https://mykhailoiskra.github.io/goit-group_14-filmoteka/index.html",
+    "tech": "JavaScript"
+  }
+]
