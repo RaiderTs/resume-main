@@ -9,6 +9,12 @@
     "id": "id-2",
     "label": "Filmoteka",
     "link": "https://mykhailoiskra.github.io/goit-group_14-filmoteka/index.html",
-    "tech": "JavaScript"
+    "tech": "HTML5, CSS3, JS"
+  },
+  {
+    "id": "id-3",
+    "label": "Pro Test",
+    "link": "https://fin-proj-gr7.netlify.app/",
+    "tech": "React.js, Redux, Node.js"
   }
 ]

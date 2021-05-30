@@ -2,6 +2,7 @@
   padding: 50px;
   background: gray;
   width: 300px;
+  background: #1e2939;
 }
 
 .photo {
@@ -19,4 +20,41 @@
   font-weight: 700;
   line-height: 24px;
   color: #ffffff;
+}
+.text {
+  font-size: 14px;
+  line-height: 1.71;
+  color: #c2c5c9;
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+  justify-content: end;
+  min-width: 200px;
+  height: 50px;
+
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 1.3;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+
+  cursor: pointer;
+  transition: all 250ms var(--timingFn);
+  color: #fff;
+  /* background-color: var(--accentColor);
+  border: 2px solid var(--accentColor); */
+  border-radius: 25px;
+}
+
+.link:hover,
+.link:focus {
+  color: var(--accentColor);
+  background-color: transparent;
+}
+
+.icon {
+  margin-right: 10px;
 }
