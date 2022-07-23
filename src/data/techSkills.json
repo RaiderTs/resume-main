@@ -34,5 +34,33 @@
   {
     "id": "id-9",
     "label": "MongoDB"
+  },
+  {
+    "id": "id-10",
+    "label": "Next JS"
+  },
+  {
+    "id": "id-11",
+    "label": "RTK Query"
+  },
+  {
+    "id": "id-12",
+    "label": "Styled component"
+  },
+  {
+    "id": "id-13",
+    "label": "Tailwind"
+  },
+  {
+    "id": "id-14",
+    "label": "Typescript"
+  },
+  {
+    "id": "id-15",
+    "label": "Chakra UI"
+  },
+  {
+    "id": "id-16",
+    "label": "Ant Design"
   }
 ]

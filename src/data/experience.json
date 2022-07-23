@@ -1,9 +1,47 @@
 [
   {
     "id": "id-1",
+    "profession": "Front-end",
+    "company": "Pinta Webware",
+    "time": "March 2022 - up to now",
+    "country": "Ukraine",
+    "duties": [
+      {
+        "id": "1",
+        "duty": "Developing of custom application"
+      },
+      {
+        "id": "2",
+        "duty": "Refinement and optimization af existing application"
+      }
+    ]
+  },
+  {
+    "id": "id-2",
+    "profession": "Front-end Developer",
+    "company": "Forty Four",
+    "time": "September 2021 - february 2022",
+    "country": "Ukraine",
+    "duties": [
+      {
+        "id": "1",
+        "duty": "Developing of custom application"
+      },
+      {
+        "id": "2",
+        "duty": "Refinement and optimization af existing application"
+      },
+      {
+        "id": "3",
+        "duty": "Freelance work"
+      }
+    ]
+  },
+  {
+    "id": "id-3",
     "profession": "Full Stack Web Developer - student",
     "company": "GoIT",
-    "time": "April 2020 - up to now",
+    "time": "April 2020 - March 2022",
     "country": "Ukraine",
     "duties": [
       {
@@ -31,10 +69,10 @@
   },
 
   {
-    "id": "id-2",
+    "id": "id-4",
     "profession": "Software development and testing specialist",
     "company": "Technocenter Mayak",
-    "time": "February 2020 - until today",
+    "time": "February 2020 - Senior 2022",
     "country": "Ukraine",
     "duties": [
       { "id": "1", "duty": "Software support and maintenance." },
@@ -54,7 +92,7 @@
   },
 
   {
-    "id": "id-3",
+    "id": "id-5",
     "profession": "Senior auditor",
     "company": "Supermarket chain 'Varus', Dnipro (Food products)",
     "time": "March 2011 - January 2020",
@@ -68,12 +106,15 @@
         "id": "2",
         "duty": "Drawing up reports on the results of inventory."
       },
-      { "id": "3", "duty": "Team management (up to 20 people) in the process of inventory." },
+      {
+        "id": "3",
+        "duty": "Team management (up to 20 people) in the process of inventory."
+      },
       {
         "id": "4",
         "duty": "Preparation of financial statements."
       },
-       {
+      {
         "id": "5",
         "duty": "Supervising the work of junior staff."
       }

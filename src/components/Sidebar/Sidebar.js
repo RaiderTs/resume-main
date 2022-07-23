@@ -42,7 +42,7 @@ function Sidebar({ contacts, techSkills, softSkills }) {
       </div>
       <div className={s.section}>
         <h3 className={s.title}>Language</h3>
-        <p className={s.text}>English - Elementary</p>
+        <p className={s.text}>English - Pre-intermediate</p>
       </div>
 
       <div className={s.section}>

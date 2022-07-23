@@ -24,5 +24,11 @@
     "label": "Phonebook",
     "link": "https://rts-phonebook.netlify.app/",
     "tech": "React"
+  },
+  {
+    "id": "id-5",
+    "label": "Mindrecorder",
+    "link": "https://app.mindrecorder.io",
+    "tech": "Redux, RTK Query, Next js, Tailwind, Chakra UI"
   }
 ]

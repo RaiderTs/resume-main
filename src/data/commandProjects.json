@@ -16,5 +16,11 @@
     "label": "Pro Test",
     "link": "https://fin-proj-gr7.netlify.app/",
     "tech": "React.js, Redux, Node.js"
+  },
+  {
+    "id": "id-4",
+    "label": "StymConnect",
+    "link": "https://app.stymconnect.com",
+    "tech": "Redux, RTK Query, Next js, Tailwind, Chakra UI"
   }
 ]
